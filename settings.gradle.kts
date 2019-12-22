@@ -1,2 +1,2 @@
-rootProject.name = "metrics-lib"
+rootProject.name = "statistics-lib"
 
